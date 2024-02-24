@@ -1,0 +1,17 @@
+.vaccination-by-age-container {
+  background-color: #1c1c2b;
+  width: 95%;
+  margin-top: 10px;
+  padding-left: 30px;
+  padding-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.vaccination-by-age-heading {
+  color: #cbd5e1;
+  font-family: 'Roboto';
+  align-self: flex-start;
+}

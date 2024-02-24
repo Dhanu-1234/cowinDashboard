@@ -1,0 +1,14 @@
+.vaccination-coverage-container {
+  background-color: #1c1c2b;
+  width: 95%;
+  padding-left: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.vaccination-coverage-heading {
+  color: #cbd5e1;
+  font-family: 'Roboto';
+}
